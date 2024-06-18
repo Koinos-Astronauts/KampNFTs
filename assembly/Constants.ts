@@ -11,6 +11,5 @@ export namespace Constants {
 
   // token mint
   export const TOKEN_PAY: Uint8Array = Base58.decode("15DJN4a8SgrbGhhGksSBASiSYjGnMU8dGL");
-  // FILL IN CORRECT ADDRESS FOR TREASURY FOR MAINNET
-  export const ADDRESS_PAY: Uint8Array = Base58.decode("1Cs4tVzdRZZ4DPYEHpiULe4VMemjiK6p1Y");
+  export const ADDRESS_PAY: Uint8Array = Base58.decode("14vJLaCuov8c8M7Rf61VCQu8FDVbHRtXFd");
 }
